@@ -3,8 +3,8 @@
 # Useful .gitignore templates: https://github.com/github/gitignore
 #Ignore file
 /credential.py
-#Ignore folder
-text/
+#Ignore txt files inside of a folder
+text/*.txt
 node_modules
 dist
 .cache
